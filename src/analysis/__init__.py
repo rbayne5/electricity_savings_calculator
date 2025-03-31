@@ -1,3 +1,3 @@
 """
-Analysis package for calculating savings and generating optimization recommendations.
+Analysis package for the Electricity Savings Calculator.
 """ 

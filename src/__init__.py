@@ -1,0 +1,3 @@
+"""
+Electricity Savings Calculator package.
+"""
